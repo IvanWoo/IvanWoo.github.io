@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on 一凡 : Yifan</title>
+    <link>/tags/music/</link>
+    <description>Recent content in music on 一凡 : Yifan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>蒸気ミナミ Vaporwave Minami</title>
+      <link>/posts/vaporwave-minami/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/vaporwave-minami/</guid>
+      <description>    My little lover letter to the vaporwave phenomenon, dedicated to my muse Minami.
+ Credit  inspired by 蒸気ナミ. music was sampled and remixed from my friend DVC&amp;rsquo;s beautifully work 四月的鱼 ft. minami.  </description>
+    </item>
+    
+    <item>
+      <title>YF-001</title>
+      <link>/posts/yf-001/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/yf-001/</guid>
+      <description> lyrics: ¥ifan
+beats: ¥ifan
+    </description>
+    </item>
+    
+    <item>
+      <title>FOREVER(?) LOVER feat. DVC</title>
+      <link>/posts/liar/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/liar/</guid>
+      <description> lyrics: ¥ifan / DVC
+beats: ¥ifan / DVC
+    </description>
+    </item>
+    
+  </channel>
+</rss>
