@@ -6,10 +6,20 @@
     <description>Recent content in Posts on 一凡 : Yifan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Don&#39;t think, just let it flow</title>
+      <link>/posts/dont-think-just-let-it-flow/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dont-think-just-let-it-flow/</guid>
+      <description>trying to make some animation in magicavoxel.
+  </description>
+    </item>
     
     <item>
       <title>蒸気ミナミ Vaporwave Minami</title>
